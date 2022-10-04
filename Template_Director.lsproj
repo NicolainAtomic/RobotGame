@@ -1,0 +1,2218 @@
+{
+    "lens_id": "",
+    "document_id": "h77w4ikrf-7JdSS117-S",
+    "original_document_id": "wehy7duROn0crBtoDDvq",
+    "version": "29",
+    "lastChanged": "1664446738900",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "3",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "28",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Scripts",
+                        "LIB",
+                        "Localization",
+                        "LocalizationDatas"
+                    ],
+                    [
+                        "Scripts",
+                        "LIB",
+                        "Localization",
+                        "LocalizationModule"
+                    ],
+                    [
+                        "Scripts",
+                        "LIB",
+                        "Main",
+                        "UpdateManager"
+                    ],
+                    [
+                        "Scripts",
+                        "LIB",
+                        "Main",
+                        "VideoController"
+                    ],
+                    [
+                        "Scripts",
+                        "LIB",
+                        "Others",
+                        "ParallaxManager"
+                    ],
+                    [
+                        "Scripts",
+                        "LIB",
+                        "Others",
+                        "PoolManager"
+                    ],
+                    [
+                        "Scripts",
+                        "LIB",
+                        "Others",
+                        "TextToTexture"
+                    ],
+                    [
+                        "Scripts",
+                        "Misc",
+                        "Hints"
+                    ],
+                    [
+                        "Scripts",
+                        "Misc",
+                        "Scene"
+                    ],
+                    [
+                        "Scripts",
+                        "Misc",
+                        "SubScene"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "RenderTargets",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "RenderTargets",
+                        "Render Target Live"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1614606250700498:95730",
+                    "1614606250746057:95796",
+                    "1614606895437696:179743",
+                    "1620039363478451:636130",
+                    "1620116646747682:30522",
+                    "1620123745623248:1118501",
+                    "1620123745841717:1118617",
+                    "1620123745868492:1118743",
+                    "1620124229498099:1196164",
+                    "1620211184816467:593009",
+                    "1621947046731452:967144",
+                    "1623763366984572:216109",
+                    "1623763632403795:282810",
+                    "1623763931382334:338908",
+                    "1623764017287164:361513",
+                    "1623764501860863:454533",
+                    "1623764538475179:493625",
+                    "1623770417360882:49288",
+                    "1623771017572655:221168",
+                    "1623771444246262:439732",
+                    "1623771593238045:486043",
+                    "1623771607976306:508942",
+                    "1623771806149343:575210",
+                    "1623772135023539:666824",
+                    "1623772173699890:715210",
+                    "1623772288484083:766203",
+                    "1623772294629042:769964",
+                    "1623851754830684:583247",
+                    "1623851756112363:583418",
+                    "1623851757278195:583581",
+                    "1623851758476926:583741",
+                    "1623851759510772:583881",
+                    "1623851761454593:584133",
+                    "1623851763801739:584465",
+                    "1623851765487738:584689",
+                    "1623860787898190:3021301",
+                    "1623860788054942:3021378",
+                    "1623860788060996:3021394"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Template Director",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Sky.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1620039363478451:636130"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1614606656188431:149054",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1623762237787476:134774",
+                    "name": "Files\/File329.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1623762237831427:134790",
+                    "name": "Files\/File330.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1623762237875691:134811",
+                    "name": "Files\/File331.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "145",
+                    "uid": "1623762238178651:134891",
+                    "name": "Files\/File336.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "155",
+                    "uid": "1623858509412353:2496013",
+                    "name": "Files\/File350.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "156",
+                    "uid": "1623859942570618:2822158",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "161",
+                    "uid": "1623935325336765:434634",
+                    "name": "Files\/File355.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1624896167648872:85372",
+                    "name": "Files\/File377.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "177",
+                    "uid": "1624896173658546:86323",
+                    "name": "Files\/File378.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "178",
+                    "uid": "1643294299716055:614851",
+                    "name": "Files\/File379.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "179",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "180",
+                    "uid": "1659618201347539:49405",
+                    "name": "Files\/File380.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1659618201370573:49421",
+                    "name": "Files\/File381.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "185",
+                    "uid": "1659618861075110:164888",
+                    "name": "Files\/File388.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1659618861096529:164901",
+                    "name": "Files\/File389.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1659618896902930:170932",
+                    "name": "Files\/File390.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1659618442610772:82083",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1659618442656562:82242",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1659618446008365:83818",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1659618446038252:83973",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1659618656940646:121210",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1659618656952935:121367",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1659618669441244:128187",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1659618669452663:128340",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1623762238767110:135009",
+                "1": "1623762238768752:135011",
+                "2": "1623762238769865:135013",
+                "3": "1623762238771834:135018",
+                "4": "1623762238774560:135023",
+                "5": "1623762238779956:135033",
+                "6": "1623762238809614:135084",
+                "7": "1623762238812267:135086",
+                "8": "1623762238814922:135095",
+                "9": "1623762320198986:152947",
+                "10": "1623762320491139:154829",
+                "11": "1623764338545109:427342",
+                "12": "1623764338546890:427344",
+                "13": "1623764338550700:427359",
+                "14": "1623771461141115:450171",
+                "15": "1623858487350455:2487470",
+                "16": "1623935284798451:429736",
+                "17": "1624028738474472:793156",
+                "18": "1624895878614175:43855",
+                "19": "1624895896454814:46032",
+                "20": "1624895925551797:49581",
+                "21": "1624895933192459:52142",
+                "22": "1624895933193099:52144",
+                "23": "1624896192652958:89304",
+                "24": "1643294473705647:639064",
+                "25": "1659618201455542:49481",
+                "26": "1659618201456062:49483",
+                "27": "1659618201456419:49485",
+                "28": "1659618442609763:82081",
+                "29": "1659618442656276:82241",
+                "30": "1659618446007194:83816",
+                "31": "1659618446038023:83972",
+                "32": "1659618656891348:120616",
+                "33": "1659618656924282:120915",
+                "34": "1659618669407646:127593",
+                "35": "1659618669424924:127892"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "12",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Ortho LiveOnly",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                },
+                {
+                    "k": "329",
+                    "v": "Files\/File329.js"
+                },
+                {
+                    "k": "330",
+                    "v": "Files\/File330.js"
+                },
+                {
+                    "k": "331",
+                    "v": "Files\/File331.js"
+                },
+                {
+                    "k": "336",
+                    "v": "Files\/File336.js"
+                },
+                {
+                    "k": "350",
+                    "v": "Files\/File350.js"
+                },
+                {
+                    "k": "355",
+                    "v": "Files\/File355.js"
+                },
+                {
+                    "k": "377",
+                    "v": "Files\/File377.js"
+                },
+                {
+                    "k": "378",
+                    "v": "Files\/File378.js"
+                },
+                {
+                    "k": "379",
+                    "v": "Files\/File379.js"
+                },
+                {
+                    "k": "380",
+                    "v": "Files\/File380.js"
+                },
+                {
+                    "k": "381",
+                    "v": "Files\/File381.js"
+                },
+                {
+                    "k": "388",
+                    "v": "Files\/File388.js"
+                },
+                {
+                    "k": "389",
+                    "v": "Files\/File389.js"
+                },
+                {
+                    "k": "390",
+                    "v": "Files\/File390.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Textures\/Envmaps\/Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Scripts\/LIB\/Main\/Animation.js"
+                    },
+                    {
+                        "k": "7803",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "14279",
+                        "v": "Textures\/RenderTargets"
+                    },
+                    {
+                        "k": "25961",
+                        "v": "Scripts\/LIB"
+                    },
+                    {
+                        "k": "25962",
+                        "v": "Scripts\/LIB\/Main\/DirectorModule.js"
+                    },
+                    {
+                        "k": "25963",
+                        "v": "Scripts\/LIB\/Main\/Easings.js"
+                    },
+                    {
+                        "k": "25964",
+                        "v": "Scripts\/LIB\/Others\/SubSceneCreator.js"
+                    },
+                    {
+                        "k": "25970",
+                        "v": "Scripts\/Misc"
+                    },
+                    {
+                        "k": "25971",
+                        "v": "Scripts\/Misc\/Director.js"
+                    },
+                    {
+                        "k": "25985",
+                        "v": "Scripts\/Misc\/Hints.js"
+                    },
+                    {
+                        "k": "25990",
+                        "v": "Scripts\/LIB\/Main\/VideoController.js"
+                    },
+                    {
+                        "k": "25998",
+                        "v": "Textures\/Envmaps"
+                    },
+                    {
+                        "k": "26007",
+                        "v": "Scripts\/Misc\/SubScene.js"
+                    },
+                    {
+                        "k": "26008",
+                        "v": "Scripts\/Misc\/Scene.js"
+                    },
+                    {
+                        "k": "26009",
+                        "v": "Scripts\/LIB\/Main\/UpdateManager.js"
+                    },
+                    {
+                        "k": "26023",
+                        "v": "Scripts\/LIB\/Localization\/LocalizationModule.js"
+                    },
+                    {
+                        "k": "26024",
+                        "v": "Scripts\/LIB\/Localization\/LocalizationDatas.js"
+                    },
+                    {
+                        "k": "26028",
+                        "v": "Scripts\/LIB\/Localization"
+                    },
+                    {
+                        "k": "26030",
+                        "v": "Scripts\/LIB\/Main"
+                    },
+                    {
+                        "k": "26031",
+                        "v": "Scripts\/LIB\/Others"
+                    },
+                    {
+                        "k": "26032",
+                        "v": "Scripts\/LIB\/Others\/PoolManager.js"
+                    },
+                    {
+                        "k": "26033",
+                        "v": "Scripts\/LIB\/Others\/ParallaxManager.js"
+                    },
+                    {
+                        "k": "26034",
+                        "v": "Scripts\/LIB\/Others\/TextToTexture.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "969",
+                        "v": "962f2921db0c66394ddf5df6933e8ad4"
+                    },
+                    {
+                        "k": "970",
+                        "v": "c09a34cb97099698c80f06cf32c1b2ea"
+                    },
+                    {
+                        "k": "971",
+                        "v": "dd6207d45e195a3e95353d3bdda79386"
+                    },
+                    {
+                        "k": "972",
+                        "v": "e82b91a1bc0c720c21ddd5fc9829d553"
+                    },
+                    {
+                        "k": "973",
+                        "v": "52402a1bffd563544cf7cdf7b8df47ef"
+                    },
+                    {
+                        "k": "974",
+                        "v": "ec6b616d0a6baf6f3fe346a6857cf4cd"
+                    },
+                    {
+                        "k": "7804",
+                        "v": "8cb97806fe76772aa6e00bd6ee500e06"
+                    },
+                    {
+                        "k": "7805",
+                        "v": "9cf53420ad6a1052a422a8a1a343ef0e"
+                    },
+                    {
+                        "k": "14269",
+                        "v": "0227d90f6a129abc117fb2024fe8fd71"
+                    },
+                    {
+                        "k": "14270",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "14271",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "14272",
+                        "v": "6e43ca7bc0b6098921ec268cea226827"
+                    },
+                    {
+                        "k": "14273",
+                        "v": "dd6cdc11090bc0e8c71da42e9155d02b"
+                    },
+                    {
+                        "k": "14278",
+                        "v": "18ab3eaaaaeb676d9435b42da2e13e37"
+                    },
+                    {
+                        "k": "14282",
+                        "v": "02edd82df631d04d8c2c085fe7b84338"
+                    },
+                    {
+                        "k": "14283",
+                        "v": "c602c04ba6aa0dae9a2bdedb3c0a557d"
+                    },
+                    {
+                        "k": "14284",
+                        "v": "01b9672eb9e7e070fbfc3afe8f80c200"
+                    },
+                    {
+                        "k": "14285",
+                        "v": "b705e5c64dcbd5a6cc78e74697c8ebb9"
+                    },
+                    {
+                        "k": "14287",
+                        "v": "395c63b512667deaec41063fa488141c"
+                    },
+                    {
+                        "k": "14288",
+                        "v": "1d5c7f16aec1015510f9df3eb01b51c2"
+                    },
+                    {
+                        "k": "14289",
+                        "v": "6b7cdd9d8de507e08d9e5e6fb2cf301b"
+                    },
+                    {
+                        "k": "14290",
+                        "v": "6eedd3b2b4f536b2f573ddd0ec54ec50"
+                    },
+                    {
+                        "k": "14291",
+                        "v": "8122fb959356774e8a18fdaf47474dca"
+                    },
+                    {
+                        "k": "14292",
+                        "v": "5d4eb32def80872e7c5ae1297bb4d4c7"
+                    },
+                    {
+                        "k": "14294",
+                        "v": "d4dc101d07d2c2a86296bac9173fe3dd"
+                    },
+                    {
+                        "k": "14295",
+                        "v": "2a85b44dbf12de137133d8eb6bc279e7"
+                    },
+                    {
+                        "k": "14297",
+                        "v": "5902b8828913508be3f88598e8d03410"
+                    },
+                    {
+                        "k": "14298",
+                        "v": "7a7dd1714109f86210c243f79bf12dcf"
+                    },
+                    {
+                        "k": "14299",
+                        "v": "578c28a707251771cdb2e4a63e6f7942"
+                    },
+                    {
+                        "k": "14300",
+                        "v": "ea61d57f94c1d07d98268dc88f168ef7"
+                    },
+                    {
+                        "k": "14301",
+                        "v": "dd2873cbc4c5dc2589082aed751bcc35"
+                    },
+                    {
+                        "k": "14302",
+                        "v": "0b722d3ef3144d4c19e8e9bf717c088f"
+                    },
+                    {
+                        "k": "14303",
+                        "v": "84ed260eb9ef06c22adaf86651121e85"
+                    },
+                    {
+                        "k": "14304",
+                        "v": "a665dacf4ee3cad53a62ae94e4849511"
+                    },
+                    {
+                        "k": "14305",
+                        "v": "da14f1c6754611cac5cbff8364592ef1"
+                    },
+                    {
+                        "k": "14306",
+                        "v": "b4213666cd14318d12e73482e2d2a831"
+                    },
+                    {
+                        "k": "14309",
+                        "v": "f89b854ce8dc80ee9205fbf9e7c13e2c"
+                    },
+                    {
+                        "k": "14310",
+                        "v": "68b40cf83044675442fccc7210bc6a2f"
+                    },
+                    {
+                        "k": "14311",
+                        "v": "9e8d1d80d6411311bf77144f03e4a274"
+                    },
+                    {
+                        "k": "14312",
+                        "v": "9947a02c6d726cce9709622707dea1dc"
+                    },
+                    {
+                        "k": "14313",
+                        "v": "22883c412bc639e8a62142ea8dfcf408"
+                    },
+                    {
+                        "k": "14314",
+                        "v": "a8654e9cbb0dcbc92568ab74e7d29d94"
+                    },
+                    {
+                        "k": "14315",
+                        "v": "6061a9a50a7ce9bd416f8169f086f416"
+                    },
+                    {
+                        "k": "14316",
+                        "v": "1ededd6abdc684b99e685c1900678fca"
+                    },
+                    {
+                        "k": "14317",
+                        "v": "ca177ec7122bcfa18ea195d22eccf74c"
+                    },
+                    {
+                        "k": "14318",
+                        "v": "306c1091d175c3e49634c4cdf07f1913"
+                    },
+                    {
+                        "k": "14319",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "14320",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "14321",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "14322",
+                        "v": "78b11316f4735abb93ba975efbd5d616"
+                    },
+                    {
+                        "k": "14323",
+                        "v": "6c158799dfe4ce32a3b9a82d56af3991"
+                    },
+                    {
+                        "k": "14324",
+                        "v": "5079fd5344eca02eb13cf385efadee02"
+                    },
+                    {
+                        "k": "14325",
+                        "v": "1a3af17ae8cba407d3a0132dd85de1fe"
+                    },
+                    {
+                        "k": "14326",
+                        "v": "b90392139e3c40852ea437b2e5f79946"
+                    },
+                    {
+                        "k": "14327",
+                        "v": "d667716f927d35d834f7bfff01e01f03"
+                    },
+                    {
+                        "k": "14328",
+                        "v": "58e993c1506340fa8b31f70ed381a4f6"
+                    },
+                    {
+                        "k": "14331",
+                        "v": "4376bc656d034ce06406e5dbdd6ce2e8"
+                    },
+                    {
+                        "k": "14333",
+                        "v": "ad31547ce58a2efcc68c64dc522ebb6c"
+                    },
+                    {
+                        "k": "14335",
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    },
+                    {
+                        "k": "14336",
+                        "v": "8c48b1ff4a4341369fb6575a5401f87a"
+                    },
+                    {
+                        "k": "14338",
+                        "v": "88a86feee463884ed99a0876dbcd04a3"
+                    },
+                    {
+                        "k": "14339",
+                        "v": "edf80148930819930004660746c5a8b3"
+                    },
+                    {
+                        "k": "14340",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "14341",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "14342",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "14343",
+                        "v": "e4597fdd307f8c6c85b767c733fa15a5"
+                    },
+                    {
+                        "k": "14345",
+                        "v": "cefdcc4391e1a77bca5dd7ee60ad6bce"
+                    },
+                    {
+                        "k": "14347",
+                        "v": "4d35cae5493d10d7cbeb78d8ec87e9d9"
+                    },
+                    {
+                        "k": "14348",
+                        "v": "55d3d3f6b5cd676d383f30953a80f7fa"
+                    },
+                    {
+                        "k": "14349",
+                        "v": "3a34323f1d7b68ba93e1f0b836ef4b25"
+                    },
+                    {
+                        "k": "14350",
+                        "v": "28b0966c1c16f1879d54cdb7739e1930"
+                    },
+                    {
+                        "k": "14351",
+                        "v": "99dde77ad8b1568b96101a8a05b682e5"
+                    },
+                    {
+                        "k": "14352",
+                        "v": "9b37b4b957d81caddef4199bba0c95b4"
+                    },
+                    {
+                        "k": "14353",
+                        "v": "c602c04ba6aa0dae9a2bdedb3c0a557d"
+                    },
+                    {
+                        "k": "14354",
+                        "v": "9b0f600ec16d234652d13c8ed65a562c"
+                    },
+                    {
+                        "k": "14355",
+                        "v": "65505eae886fbf3f06ac738c4b9853bf"
+                    },
+                    {
+                        "k": "14356",
+                        "v": "c7c136655c474918c2ba5cb763773f78"
+                    },
+                    {
+                        "k": "14357",
+                        "v": "8ca86e0717f4f3475f5072927fc0374b"
+                    },
+                    {
+                        "k": "14358",
+                        "v": "aea553ce484cbcef9a9aefafd5ac6185"
+                    },
+                    {
+                        "k": "14359",
+                        "v": "57152cc2b02a67b2445bd4b34ee5b5e5"
+                    },
+                    {
+                        "k": "14360",
+                        "v": "661bbe32549da7d3e02927cf40a7eb15"
+                    },
+                    {
+                        "k": "14361",
+                        "v": "bd976856a10a91e7c48555f5b8541043"
+                    },
+                    {
+                        "k": "14362",
+                        "v": "78f6357f6317a666dae2909662137dae"
+                    },
+                    {
+                        "k": "14364",
+                        "v": "9cf6125d8ce9ba874fe0ff27b21b2323"
+                    },
+                    {
+                        "k": "14365",
+                        "v": "6279caca71e73921ff3bb756b2cd467b"
+                    },
+                    {
+                        "k": "14366",
+                        "v": "45db48a03f93b5afd15f10630204d3ca"
+                    },
+                    {
+                        "k": "14367",
+                        "v": "40ca9e461971bcb46a642cc46225c260"
+                    },
+                    {
+                        "k": "14368",
+                        "v": "1b0bd65788c405aa8e9fdc45cb804e57"
+                    },
+                    {
+                        "k": "14369",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "14370",
+                        "v": "831dc22d8ff4437f79465f5753be3f68"
+                    },
+                    {
+                        "k": "14371",
+                        "v": "a44f13229014545af0f487b522f1c2ee"
+                    },
+                    {
+                        "k": "14372",
+                        "v": "292a1cca18c89013f5a0caf30bd4cf05"
+                    },
+                    {
+                        "k": "25954",
+                        "v": "8155d6336c3716c8ba68c26ef94459d8"
+                    },
+                    {
+                        "k": "25955",
+                        "v": "ef4b3bce1ad8ca8d302fe4d2868cf351"
+                    },
+                    {
+                        "k": "25956",
+                        "v": "c28909053bee4e0750ee4d6738d69465"
+                    },
+                    {
+                        "k": "25958",
+                        "v": "ad9a2a22188cdc5f1687ff7dcb37e660"
+                    },
+                    {
+                        "k": "25960",
+                        "v": "c0f0f88cdd3882f8f052bd1ef1c0982a"
+                    },
+                    {
+                        "k": "25962",
+                        "v": "97022be367c6cc78a8f7297edeb653ff"
+                    },
+                    {
+                        "k": "25963",
+                        "v": "07196a1b2162df91a9557abdf7a9af62"
+                    },
+                    {
+                        "k": "25964",
+                        "v": "30dfe87a8bc42d8fe400477fe277d4ba"
+                    },
+                    {
+                        "k": "25966",
+                        "v": "c595c2d1afd1f0db3da23b6bb70ce5fa"
+                    },
+                    {
+                        "k": "25967",
+                        "v": "e0c80fefda98ddd3c3045d62d70d8569"
+                    },
+                    {
+                        "k": "25968",
+                        "v": "b7261d16c2d13ac31b4f25c5f1f462b5"
+                    },
+                    {
+                        "k": "25969",
+                        "v": "2b0a3e0323f8735b1b67b6c9dc75d67c"
+                    },
+                    {
+                        "k": "25971",
+                        "v": "63479901e602fe56e82d014019f65330"
+                    },
+                    {
+                        "k": "25973",
+                        "v": "c90f198916aee10bb4cb3e8e4ebb7e90"
+                    },
+                    {
+                        "k": "25974",
+                        "v": "9b8aa69e2c39957978d7a331859c94c9"
+                    },
+                    {
+                        "k": "25975",
+                        "v": "d41d8cd98f00b204e9800998ecf8427e"
+                    },
+                    {
+                        "k": "25977",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "25979",
+                        "v": "aa7ffc22b0d51793170c472bb56ca92d"
+                    },
+                    {
+                        "k": "25981",
+                        "v": "32219923ebb1e6d185e6d9e616bc8d5f"
+                    },
+                    {
+                        "k": "25982",
+                        "v": "2da7b1c03ec31b5950ac19403810f84f"
+                    },
+                    {
+                        "k": "25983",
+                        "v": "1cf2e85c9928179795ef6058407f54b8"
+                    },
+                    {
+                        "k": "25984",
+                        "v": "ee41cf4cc794b2086fb7f660fab57b56"
+                    },
+                    {
+                        "k": "25985",
+                        "v": "38563276e33ce42900ebf80c32ef13a6"
+                    },
+                    {
+                        "k": "25986",
+                        "v": "bddc5b90165a300dc805ff80dec51eb7"
+                    },
+                    {
+                        "k": "25987",
+                        "v": "d3ff2170c68d62c5fb3e72fc56c7ea3b"
+                    },
+                    {
+                        "k": "25988",
+                        "v": "481ca5b423709d3267f4838a23ec45bc"
+                    },
+                    {
+                        "k": "25989",
+                        "v": "b1e766db9848473af12fae16c1741ea5"
+                    },
+                    {
+                        "k": "25990",
+                        "v": "d1507a21614cc60bc4eada6105c97ed8"
+                    },
+                    {
+                        "k": "25991",
+                        "v": "820fd8108270af49ca597ae57838956b"
+                    },
+                    {
+                        "k": "25992",
+                        "v": "87064e08539dbb2d29eebeaf1b56ea3e"
+                    },
+                    {
+                        "k": "25993",
+                        "v": "0c49877bcd968843bfef20a404ef83c5"
+                    },
+                    {
+                        "k": "25994",
+                        "v": "0a8ee6eb3f4dc821c75bfb6885eec4ff"
+                    },
+                    {
+                        "k": "25995",
+                        "v": "53a423a051c2e80269868400f6ba403a"
+                    },
+                    {
+                        "k": "25996",
+                        "v": "28f9e53d60b681a3c0e7e136da24b8e7"
+                    },
+                    {
+                        "k": "25997",
+                        "v": "929c91902d04140cfbbadd0fb3a376d4"
+                    },
+                    {
+                        "k": "26003",
+                        "v": "633e6164fd04c2de5d7f0ed88b3dd76d"
+                    },
+                    {
+                        "k": "26004",
+                        "v": "d0bdedc8398f8e9ad4238d35d165b495"
+                    },
+                    {
+                        "k": "26005",
+                        "v": "9cf6125d8ce9ba874fe0ff27b21b2323"
+                    },
+                    {
+                        "k": "26007",
+                        "v": "479e3292dc3e959a1665acf65d39d11b"
+                    },
+                    {
+                        "k": "26008",
+                        "v": "ff8d933657764dcfd9727504a4679d2d"
+                    },
+                    {
+                        "k": "26009",
+                        "v": "c3735dead1f73f3a767548298be70c94"
+                    },
+                    {
+                        "k": "26010",
+                        "v": "429821bf7a4c9d6d352029b2300cb1c0"
+                    },
+                    {
+                        "k": "26011",
+                        "v": "6db80db5a85fafb403d291eada59fdc5"
+                    },
+                    {
+                        "k": "26012",
+                        "v": "d2e13f71c8e4ea77d952627da20f585d"
+                    },
+                    {
+                        "k": "26013",
+                        "v": "9a92be07f823945e5cf5c8cccf88473f"
+                    },
+                    {
+                        "k": "26014",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "26015",
+                        "v": "aef7c7f9cc4d17e2087eafddedc57238"
+                    },
+                    {
+                        "k": "26023",
+                        "v": "f933b2414eebdb9294d1d8f666b87bf4"
+                    },
+                    {
+                        "k": "26024",
+                        "v": "5aa2b284813b86efb9adc7127ad49b37"
+                    },
+                    {
+                        "k": "26025",
+                        "v": "3599057450ee6953ef5b82daf86a525e"
+                    },
+                    {
+                        "k": "26026",
+                        "v": "1e272aee348d11a9a38a2a2f773a4cfa"
+                    },
+                    {
+                        "k": "26027",
+                        "v": "1d260176ed77185276de2d9f108a5082"
+                    },
+                    {
+                        "k": "26032",
+                        "v": "1151d6ee1ac0de4c244bc90acbc3bbce"
+                    },
+                    {
+                        "k": "26033",
+                        "v": "b659e95af3a3b3852bae354ca4f9d3a0"
+                    },
+                    {
+                        "k": "26034",
+                        "v": "e84f91956864a5c8ffda3cba86806657"
+                    },
+                    {
+                        "k": "26035",
+                        "v": "907c7886b232911a393fe8c598903a05"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-09-05T18:30:45",
+                        "name": "Public",
+                        "hash": "0ae7a203fc20738a23bce8488f287d6e",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-10-06T11:47:18",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-10-06T11:47:18",
+                                "name": "Scripts",
+                                "hash": "bab6d20480b748f87176d8cb718d1b34",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-10-06T11:47:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-08-22T10:58:32",
+                                        "name": "LIB",
+                                        "hash": "5cfc885481bec1bd6e52eeea59424c2a",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-10-06T11:47:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-08-22T10:58:32",
+                                                "name": "Localization",
+                                                "hash": "885f8a90f8425e168b7d384d9a01af9d",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "LocalizationDatas.js",
+                                                        "hash": "5aa2b284813b86efb9adc7127ad49b37",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "LocalizationModule.js",
+                                                        "hash": "f933b2414eebdb9294d1d8f666b87bf4",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-09-29T12:14:20",
+                                                "name": "Main",
+                                                "hash": "a8728a19198f15a1d62fb595f9093d75",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-09-29T12:14:20",
+                                                        "name": "Animation.js",
+                                                        "hash": "52402a1bffd563544cf7cdf7b8df47ef",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-09-29T12:17:24",
+                                                        "name": "DirectorModule.js",
+                                                        "hash": "97022be367c6cc78a8f7297edeb653ff",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T18:00:11",
+                                                        "name": "Easings.js",
+                                                        "hash": "07196a1b2162df91a9557abdf7a9af62",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "UpdateManager.js",
+                                                        "hash": "c3735dead1f73f3a767548298be70c94",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "VideoController.js",
+                                                        "hash": "d1507a21614cc60bc4eada6105c97ed8",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-08-22T10:58:32",
+                                                "name": "Others",
+                                                "hash": "2015973870b0d3456e79fa44b78cfc51",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "ParallaxManager.js",
+                                                        "hash": "b659e95af3a3b3852bae354ca4f9d3a0",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "PoolManager.js",
+                                                        "hash": "1151d6ee1ac0de4c244bc90acbc3bbce",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "SubSceneCreator.js",
+                                                        "hash": "30dfe87a8bc42d8fe400477fe277d4ba",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-22T10:58:32",
+                                                        "name": "TextToTexture.js",
+                                                        "hash": "e84f91956864a5c8ffda3cba86806657",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-05T18:30:45",
+                                        "name": "Misc",
+                                        "hash": "372b986f6faf67c06a607c4c124ad88c",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-05T18:30:45",
+                                                "name": "Director.js",
+                                                "hash": "63479901e602fe56e82d014019f65330",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-10-06T11:47:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-10-06T11:47:18",
+                                                "name": "Hints.js",
+                                                "hash": "38563276e33ce42900ebf80c32ef13a6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-05T18:30:45",
+                                                "name": "Scene.js",
+                                                "hash": "ff8d933657764dcfd9727504a4679d2d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-05T18:30:45",
+                                                "name": "SubScene.js",
+                                                "hash": "479e3292dc3e959a1665acf65d39d11b",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-09T11:37:18",
+                                "name": "Textures",
+                                "hash": "5d28815959cf0a6f54eb4461ca43940e",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-10-06T11:47:18",
+                                        "name": "Envmaps",
+                                        "hash": "7305afc99178fbb8f0912889f41c0cab",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-10-06T11:47:18",
+                                                "name": "Echopark.hdr",
+                                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-10-06T11:47:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-10-06T11:47:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-10-06T11:47:18",
+                                        "name": "RenderTargets",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-10-06T11:47:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "LIB",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "25961",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Main",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26030",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "DirectorModule",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "138",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1623762237787476:134774",
+                                                "fileId": "329",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25962",
+                                                "source": "C:\/Users\/Fuegan\/AppData\/Local\/Temp\/Lens Studio-JrjkcQ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Easings",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "139",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1623762237831427:134790",
+                                                "fileId": "330",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25963",
+                                                "source": "C:\/Users\/Fuegan\/AppData\/Local\/Temp\/Lens Studio-JrjkcQ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "VideoController",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "161",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1623935325336765:434634",
+                                                "fileId": "355",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25990",
+                                                "source": "E:\/Bureau\/Work\/StudioLens\/yaqoot-music\/Version 4\/Public\/Script\/LIB\/VideoController.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Animation",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "16",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1614606656188431:149054",
+                                                "fileId": "12",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "973",
+                                                "source": "D:\/ADD\/Projects\/Lens_LeMonde_SnapFr\/Public\/Scripts\/LIB\/Animation.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UpdateManager",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "178",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1643294299716055:614851",
+                                                "fileId": "379",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26009",
+                                                "source": "C:\/Users\/Fuegan\/AppData\/Local\/Temp\/Lens Studio-fVFFeE\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Others",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26031",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "SubSceneCreator",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "140",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1623762237875691:134811",
+                                                "fileId": "331",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25964",
+                                                "source": "C:\/Users\/Fuegan\/AppData\/Local\/Temp\/Lens Studio-JrjkcQ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "PoolManager",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "185",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1659618861075110:164888",
+                                                "fileId": "388",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26032",
+                                                "source": "F:\/Bureau\/Work\/StudioLens\/LIB_Lens\/Scripts\/Misc\/PoolManager.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "ParallaxManager",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "186",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1659618861096529:164901",
+                                                "fileId": "389",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26033",
+                                                "source": "F:\/Bureau\/Work\/StudioLens\/LIB_Lens\/Scripts\/Misc\/ParallaxManager.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "TextToTexture",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "187",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1659618896902930:170932",
+                                                "fileId": "390",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26034",
+                                                "source": "F:\/Bureau\/Work\/StudioLens\/LIB_Lens\/Scripts\/Misc\/TextToTexture.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Localization",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26028",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "LocalizationModule",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "180",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1659618201347539:49405",
+                                                "fileId": "380",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26023",
+                                                "source": "C:\/Users\/Fuegan\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioPvFgjMnptinm\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "LocalizationDatas",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "181",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1659618201370573:49421",
+                                                "fileId": "381",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26024",
+                                                "source": "C:\/Users\/Fuegan\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioPvFgjMnptinm\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Misc",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "25970",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Director",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "145",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1623762238178651:134891",
+                                        "fileId": "336",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "25971",
+                                        "source": "C:\/Users\/Fuegan\/AppData\/Local\/Temp\/Lens Studio-JrjkcQ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Hints",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "155",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1623858509412353:2496013",
+                                        "fileId": "350",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "25985",
+                                        "source": "C:\/Users\/Fuegan\/AppData\/Local\/Temp\/Lens Studio-qQaEsv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "SubScene",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "176",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1624896167648872:85372",
+                                        "fileId": "377",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26007",
+                                        "source": "E:\/Bureau\/Work\/StudioLens\/StudioLensTest\/Lens_JardinAstrolab_DirectorsCut\/Public\/Scripts\/SubScenes\/SubScene.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Scene",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "177",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1624896173658546:86323",
+                                        "fileId": "378",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26008",
+                                        "source": "E:\/Bureau\/Work\/StudioLens\/StudioLensTest\/Lens_JardinAstrolab_DirectorsCut\/Public\/Scripts\/Scenes\/FrontIntro.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "7803",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Envmaps",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "25998",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Echopark",
+                                        "type": "9",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "967",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Diff",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "10",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1588296316843646:534374",
+                                                "fileId": "3",
+                                                "originalId": "4",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Specular",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "11",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1588296316857901:534385",
+                                                "fileId": "5",
+                                                "originalId": "6",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "RenderTargets",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14279",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "BaseRenderTarget",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1:1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "resourceInfoExportKey": {
+                                                "RenderTargetRole": "1"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Render Target Live",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "156",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1623859942570618:2822158",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Device Camera Texture",
+                                        "type": "1",
+                                        "subtype": "3",
+                                        "resourceId": "2",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "2:2",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "179",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1623762237787476:134774",
+                        "path_list": [
+                            "Scripts",
+                            "LIB",
+                            "Main",
+                            "DirectorModule"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1620037384894124:309153",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1620376176875325:110833"
+                        },
+                        {
+                            "k": [
+                                "Sphere"
+                            ],
+                            "v": "1620376176883775:110839"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1620376176884466:110841"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": ""
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "",
+    "templateUrl": ""
+}
